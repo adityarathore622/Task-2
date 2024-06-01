@@ -14,6 +14,6 @@ Data Analysis
 Exploratory Data Analysis (EDA)
 Power BI
 # Data Visualization (Using Power BI)
-You can see the analysis report using this link : https://tr.ee/Titanic_PowerBI
+You can see the analysis report using this link : https://app.powerbi.com/links/WoLo3LZbmg?ctid=53bc88e9-b6c4-4d8e-8def-e26514fb6c59&pbi_source=linkShare
 # Stay Updated
 Don't forget to star ⭐ this repository to stay updated with the latest developments and insights!
