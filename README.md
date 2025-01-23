@@ -3,14 +3,16 @@
 This repository contains an exploratory data analysis (EDA) project based on the Titanic dataset. The project involves data preprocessing, visualization, and insights generation, along with a Power BI dashboard for advanced analysis.
 
 ---
+## 🗂️ Repository Content
 
-## 📁 File Structure
-
-- **`Titanic_Exploratory_data_analysis.ipynb`**: A Jupyter notebook with detailed EDA steps.
-- **`Titanic_EDA.pbix`**: A Power BI dashboard showcasing key insights and visualizations.
-- **`train.csv`**: The original Titanic dataset used for analysis.
-- **`train_Cleaned.csv`**: The cleaned dataset after preprocessing steps.
-- **`README.md`**: Documentation for the repository (this file).
+```
+Titanic-EDA/
+├── Titanic_Exploratory_data_analysis.ipynb
+├── Titanic_EDA.pbix
+├── train.csv
+├── train_Cleaned.csv
+├── README.md
+```
 
 ---
 
@@ -49,22 +51,10 @@ This repository contains an exploratory data analysis (EDA) project based on the
 
 ## 👨‍💻 Author
 
-- **Your Name**  
+- **Aditya Rathore**  
   A data enthusiast exploring datasets and generating insights with Python and Power BI.
 
 ---
 
-## 🗂️ Repository Content
-
-```
-Titanic-EDA/
-├── Titanic_Exploratory_data_analysis.ipynb
-├── Titanic_EDA.pbix
-├── train.csv
-├── train_Cleaned.csv
-├── README.md
-```
-
----
 
 ✨ Happy analyzing! 🚀
